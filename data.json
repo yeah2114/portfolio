@@ -1,0 +1,19 @@
+{
+    "project":[
+        {
+            "tit":"PORTFOLIO",
+            "imgSrc":"icon/project.png",
+            "detail":"portfolio.html"
+        },
+        {
+            "tit":"HAILLI",
+            "imgSrc":"icon/hailli.jpg",
+            "detail":"hailli.html"
+        },
+        {
+            "tit":"SUNNY",
+            "imgSrc":"icon/sunny.png",
+            "detail":"sunny.html"
+        }
+    ]
+}
