@@ -1,0 +1,11 @@
+@import url("common.css");
+
+
+main{
+    margin: 0 auto;
+}
+
+div{
+    padding-top:150px;
+    text-align: center;
+}
